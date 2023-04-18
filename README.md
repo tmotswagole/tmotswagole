@@ -19,7 +19,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/thabiso-solomon-motswagole/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/rethabiso/" alt="Instagram" title="Instagram"><img width="32px" src="https://imgur.com/W6Nfby9"/></a>
+  <a href="https://www.instagram.com/wearethabiso/" alt="Instagram" title="Instagram"><img width="32px" src="https://i.imgur.com/W6Nfby9.png"/></a>
   <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
 </p>
 
@@ -49,6 +49,10 @@
 ### 🔥 Streak stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tmotswagole&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+#
+
+<img width="992px" src="https://i.imgur.com/6pnbCgI.png"/>
 
 #
 
