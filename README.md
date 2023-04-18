@@ -52,7 +52,7 @@
 
 #
 
-<img width="900px" src="https://i.imgur.com/iixWrc3.jpg"/>
+<img width="900px" align-content="center" src="https://i.imgur.com/iixWrc3.jpg"/>
 
 #
 
